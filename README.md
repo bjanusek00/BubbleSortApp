@@ -6,10 +6,11 @@ The easiest way to install Eclipse is to download and run the Eclipse installer 
 
 using git bash cd to:
 
+```
 C:\Users\YOUR_USERNAME\eclipse-workspace
 
 &
 
 git clone https://github.com/bjanusek00/BubbleSortApp.git
-
+```
 Open BubbleSortApp in Eclipse IDE for Java Developers to run program
